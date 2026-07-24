@@ -28,7 +28,7 @@ model training, evaluation, and deployment.
 
 ## ⚙️ How to Run
 1. Clone the repo
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/muhammad-aftab-anwar/your-repo.git
 
 2. Install dependencies
    pip install -r requirements.txt
